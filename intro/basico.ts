@@ -1,2 +1,2 @@
-const a: string = "Hello, World!"
+const a: string = "Hello, World! (WEB)"
 console.log(a)
